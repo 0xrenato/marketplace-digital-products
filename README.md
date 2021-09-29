@@ -2,7 +2,7 @@
 
 A simple marketplace to sell/buy digital products
 
-##Under development
+## Under development
 
 # TODO
 - [x] Simpe layout
